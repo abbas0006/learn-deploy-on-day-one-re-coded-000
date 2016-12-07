@@ -246,7 +246,7 @@ a:visited {
 }
 
 .profile-photo {
-  background-image: url("../assets/img/abbas.jpg");
+  background-image: url("../assets/img/profile-photo-placeholder.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -465,4 +465,12 @@ a:visited {
 
 .clearfix:after {
     clear: both;
+}
+
+#abbas-english-cover {
+  background-image: url("../assets/img/abbas-cover.jpg");
+}
+
+#abbas-english-card {
+  background-image: url("../assets/img/abbas.jpg");
 }
